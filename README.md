@@ -4,6 +4,10 @@ An AI-powered Machine Learning project that detects fraudulent credit card trans
 
 ---
 
+## Dataset
+
+Dataset Source: Kaggle Credit Card Fraud Detection Dataset
+
 ## 🚀 Project Overview
 
 This project builds a fraud detection system using supervised machine learning.  
